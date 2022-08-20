@@ -1,0 +1,21 @@
+.classic {
+  background-color: red;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+
+.nonclassic {
+  background-color: red;
+  float: left;
+  padding: 10px;
+  margin: 10px;
+}
+.container {
+  float: left;
+  /* take up horizantal space avalible*/
+
+  background-color: blue;
+  margin: 10px;
+  padding: 10px;
+}
